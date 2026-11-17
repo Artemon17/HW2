@@ -1,3 +1,3 @@
-module HW2
+module pos
 
-go 1.27.4
+go 1.22
